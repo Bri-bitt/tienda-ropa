@@ -40,7 +40,7 @@ const PRODUCTOS = [
     precio: 599, antes: 849, imagen: "images/mujer-jeans-azul-lavado.jpg" },
   { id: 11, categoria: "mujer", nombre: "Jeans wide leg azul oscuro",
     descripcion: "Jeans de pierna muy ancha y tiro alto en denim oscuro, con botón dorado en forma de corazón.",
-    precio: 749, antes: 999, imagen: "images/mujer-jeans-wide-oscuro.jpg" },
+    precio: 499, antes: 999, imagen: "images/mujer-jeans-wide-oscuro.jpg" },
   { id: 12, categoria: "mujer", nombre: "Suéter gris cuello V",
     descripcion: "Suéter de punto gris con escote en V profundo y mangas abullonadas con puños acanalados.",
     precio: 299, antes: 599, imagen: "images/mujer-sueter-gris.jpg" },
