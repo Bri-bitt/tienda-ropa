@@ -3,7 +3,7 @@ const PRODUCTOS = [
   /* ---------- HOMBRE ---------- */
   { id: 1, categoria: "hombre", nombre: "Hoodie tribal con cierre",
     descripcion: "Sudadera negra efecto lavado con gráficos tribales plateados en pecho y mangas. Capucha y bolsillo canguro.",
-    precio: 449, antes: 899, imagen: "images/hombre-hoodie-tribal.jpg" },
+    precio: 450, antes: 899, imagen: "images/hombre-hoodie-tribal.jpg" },
   { id: 2, categoria: "hombre", nombre: "Chaqueta llamas blanca",
     descripcion: "Chaqueta bomber blanca con llamas negras aplicadas, cuello de camisa, cierre y bolsillos con zipper.",
     precio: 550, antes: 1099, imagen: "images/hombre-chaqueta-llamas.jpg" },
