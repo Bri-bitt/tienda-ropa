@@ -58,7 +58,7 @@ const PRODUCTOS = [
     precio: 259, antes: 349, imagen: "images/mujer-top-halter.jpg" },
   { id: 17, categoria: "mujer", nombre: "Camiseta strawberry",
     descripcion: "Camiseta oversize color crema con estampado de fresas y texto “Strawberry Active Lifestyle”.",
-    precio: 289, antes: 389, imagen: "images/mujer-camiseta-fresas.jpg" },
+    precio: 194, antes: 389, imagen: "images/mujer-camiseta-fresas.jpg" },
   { id: 18, categoria: "mujer", nombre: "Top negro cuello alto",
     descripcion: "Top negro ajustado con cuello alto drapeado, mangas cortas y fruncido lateral en la cintura.",
     precio: 169, antes: 339, imagen: "images/mujer-top-negro.jpg" }
