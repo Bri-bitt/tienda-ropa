@@ -37,7 +37,7 @@ const PRODUCTOS = [
   /* ---------- MUJER ---------- */
   { id: 10, categoria: "mujer", nombre: "Jeans rectos lavado azul",
     descripcion: "Jeans de pierna recta, tiro medio y lavado azul claro con efecto vintage. Cinco bolsillos.",
-    precio: 599, antes: 849, imagen: "images/mujer-jeans-azul-lavado.jpg" },
+    precio: 424, antes: 849, imagen: "images/mujer-jeans-azul-lavado.jpg" },
   { id: 11, categoria: "mujer", nombre: "Jeans wide leg azul oscuro",
     descripcion: "Jeans de pierna muy ancha y tiro alto en denim oscuro, con botón dorado en forma de corazón.",
     precio: 499, antes: 999, imagen: "images/mujer-jeans-wide-oscuro.jpg" },
