@@ -61,5 +61,5 @@ const PRODUCTOS = [
     precio: 289, antes: 389, imagen: "images/mujer-camiseta-fresas.jpg" },
   { id: 18, categoria: "mujer", nombre: "Top negro cuello alto",
     descripcion: "Top negro ajustado con cuello alto drapeado, mangas cortas y fruncido lateral en la cintura.",
-    precio: 249, antes: 339, imagen: "images/mujer-top-negro.jpg" }
+    precio: 169, antes: 339, imagen: "images/mujer-top-negro.jpg" }
 ];
