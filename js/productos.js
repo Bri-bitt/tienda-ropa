@@ -43,7 +43,7 @@ const PRODUCTOS = [
     precio: 749, antes: 999, imagen: "images/mujer-jeans-wide-oscuro.jpg" },
   { id: 12, categoria: "mujer", nombre: "Suéter gris cuello V",
     descripcion: "Suéter de punto gris con escote en V profundo y mangas abullonadas con puños acanalados.",
-    precio: 449, antes: 599, imagen: "images/mujer-sueter-gris.jpg" },
+    precio: 299, antes: 599, imagen: "images/mujer-sueter-gris.jpg" },
   { id: 13, categoria: "mujer", nombre: "Bermudas araña desgastadas",
     descripcion: "Bermudas de mezclilla gris con efecto desgastado y estampado de araña y telaraña. Cintura elástica.",
     precio: 314, antes: 629, imagen: "images/mujer-shorts-arana.jpg" },
