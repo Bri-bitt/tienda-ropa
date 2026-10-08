@@ -46,7 +46,7 @@ const PRODUCTOS = [
     precio: 449, antes: 599, imagen: "images/mujer-sueter-gris.jpg" },
   { id: 13, categoria: "mujer", nombre: "Bermudas araña desgastadas",
     descripcion: "Bermudas de mezclilla gris con efecto desgastado y estampado de araña y telaraña. Cintura elástica.",
-    precio: 449, antes: 629, imagen: "images/mujer-shorts-arana.jpg" },
+    precio: 314, antes: 629, imagen: "images/mujer-shorts-arana.jpg" },
   { id: 14, categoria: "mujer", nombre: "Bermudas denim estrellas",
     descripcion: "Bermudas de mezclilla azul lavado con estrellas blancas estampadas. Tiro alto y corte amplio.",
     precio: 299, antes: 599, imagen: "images/mujer-shorts-estrellas.jpg" },
