@@ -6,7 +6,7 @@ const PRODUCTOS = [
     precio: 450, antes: 899, imagen: "images/hombre-hoodie-tribal.jpg" },
   { id: 2, categoria: "hombre", nombre: "Chaqueta llamas blanca",
     descripcion: "Chaqueta bomber blanca con llamas negras aplicadas, cuello de camisa, cierre y bolsillos con zipper.",
-    precio: 550, antes: 1099, imagen: "images/hombre-chaqueta-llamas.jpg" },
+    precio: 550, antes: 1098, imagen: "images/hombre-chaqueta-llamas.jpg" },
   { id: 3, categoria: "hombre", nombre: "Chaqueta racing crema",
     descripcion: "Chaqueta estilo racing en color crema con parches bordados, cuello alto y vivos negros en las mangas.",
     precio: 599, antes: 1199, imagen: "images/hombre-chaqueta-racing.jpg" },
