@@ -26,7 +26,7 @@ const PRODUCTOS = [
     precio: 399, antes: 799, imagen: "images/hombre-cortavientos-negro.jpg" },
   { id: 7, categoria: "hombre", nombre: "Camiseta araña negra",
     descripcion: "Camiseta negra oversize con gráfico de araña y telaraña en gris, cuello con detalles desgastados.",
-    precio: 209.5, antes: 429, imagen: "images/hombre-camiseta-arana.jpg" },
+    precio: 214, antes: 429, imagen: "images/hombre-camiseta-arana.jpg" },
   { id: 8, categoria: "hombre", nombre: "Camiseta anime roja",
     descripcion: "Camiseta negra oversize con ilustración estilo anime y texto en japonés en color rojo.",
     precio: 209.5, antes: 419, imagen: "images/hombre-camiseta-anime.jpg" },
