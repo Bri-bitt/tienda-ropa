@@ -55,7 +55,7 @@ const PRODUCTOS = [
     precio: 549, antes: 749, imagen: "images/mujer-hoodie-azul.jpg" },
   { id: 16, categoria: "mujer", nombre: "Top halter blanco",
     descripcion: "Top blanco con cuello halter drapeado y espalda abierta con detalle de cadena dorada.",
-    precio: 259, antes: 349, imagen: "images/mujer-top-halter.jpg" },
+    precio: 174, antes: 349, imagen: "images/mujer-top-halter.jpg" },
   { id: 17, categoria: "mujer", nombre: "Camiseta strawberry",
     descripcion: "Camiseta oversize color crema con estampado de fresas y texto “Strawberry Active Lifestyle”.",
     precio: 194, antes: 389, imagen: "images/mujer-camiseta-fresas.jpg" },
