@@ -52,7 +52,7 @@ const PRODUCTOS = [
     precio: 429, antes: 599, imagen: "images/mujer-shorts-estrellas.jpg" },
   { id: 15, categoria: "mujer", nombre: "Hoodie Snoopy azul",
     descripcion: "Sudadera azul cielo oversize con cierre, capucha y estampado de Snoopy y Woodstock.",
-    precio: 549, antes: 749, imagen: "images/mujer-hoodie-azul.jpg" },
+    precio: 374, antes: 749, imagen: "images/mujer-hoodie-azul.jpg" },
   { id: 16, categoria: "mujer", nombre: "Top halter blanco",
     descripcion: "Top blanco con cuello halter drapeado y espalda abierta con detalle de cadena dorada.",
     precio: 174, antes: 349, imagen: "images/mujer-top-halter.jpg" },
