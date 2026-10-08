@@ -1,0 +1,65 @@
+/* ============================================================
+   PRODUCTOS - Edita aquí nombres, descripciones y precios.
+   categoria: "hombre" o "mujer"
+   precio = precio con descuento | antes = precio anterior
+   (Precios en pesos mexicanos MXN)
+   ============================================================ */
+const PRODUCTOS = [
+  /* ---------- HOMBRE ---------- */
+  { id: 1, categoria: "hombre", nombre: "Hoodie tribal con cierre",
+    descripcion: "Sudadera negra efecto lavado con gráficos tribales plateados en pecho y mangas. Capucha y bolsillo canguro.",
+    precio: 649, antes: 899, imagen: "images/hombre-hoodie-tribal.jpg" },
+  { id: 2, categoria: "hombre", nombre: "Chaqueta llamas blanca",
+    descripcion: "Chaqueta bomber blanca con llamas negras aplicadas, cuello de camisa, cierre y bolsillos con zipper.",
+    precio: 799, antes: 1099, imagen: "images/hombre-chaqueta-llamas.jpg" },
+  { id: 3, categoria: "hombre", nombre: "Chaqueta racing crema",
+    descripcion: "Chaqueta estilo racing en color crema con parches bordados, cuello alto y vivos negros en las mangas.",
+    precio: 849, antes: 1199, imagen: "images/hombre-chaqueta-racing.jpg" },
+  { id: 4, categoria: "hombre", nombre: "Camiseta Spiky Head",
+    descripcion: "Camiseta oversize bicolor negro y crema con mangas raglan y estampado frontal “AW Spiky Head”.",
+    precio: 329, antes: 459, imagen: "images/hombre-camiseta-spiky.jpg" },
+  { id: 5, categoria: "hombre", nombre: "Jersey Coolane negro",
+    descripcion: "Camiseta negra estilo jersey deportivo con vivos blancos y logotipo Coolane en el pecho.",
+    precio: 299, antes: 399, imagen: "images/hombre-camiseta-coolane.jpg" },
+  { id: 6, categoria: "hombre", nombre: "Cortavientos negro",
+    descripcion: "Cortavientos oversize con cuello alto, cierre frontal y líneas reflejantes en forma de V. Puños elásticos.",
+    precio: 599, antes: 799, imagen: "images/hombre-cortavientos-negro.jpg" },
+  { id: 7, categoria: "hombre", nombre: "Camiseta araña negra",
+    descripcion: "Camiseta negra oversize con gráfico de araña y telaraña en gris, cuello con detalles desgastados.",
+    precio: 319, antes: 429, imagen: "images/hombre-camiseta-arana.jpg" },
+  { id: 8, categoria: "hombre", nombre: "Camiseta anime roja",
+    descripcion: "Camiseta negra oversize con ilustración estilo anime y texto en japonés en color rojo.",
+    precio: 309, antes: 419, imagen: "images/hombre-camiseta-anime.jpg" },
+  { id: 9, categoria: "hombre", nombre: "Jeans baggy lavado",
+    descripcion: "Jeans de pierna ancha y tiro alto con lavado desgastado azul grisáceo. Corte holgado y relajado.",
+    precio: 679, antes: 949, imagen: "images/hombre-jeans-baggy.jpg" },
+
+  /* ---------- MUJER ---------- */
+  { id: 10, categoria: "mujer", nombre: "Jeans rectos lavado azul",
+    descripcion: "Jeans de pierna recta, tiro medio y lavado azul claro con efecto vintage. Cinco bolsillos.",
+    precio: 599, antes: 849, imagen: "images/mujer-jeans-azul-lavado.jpg" },
+  { id: 11, categoria: "mujer", nombre: "Jeans wide leg azul oscuro",
+    descripcion: "Jeans de pierna muy ancha y tiro alto en denim oscuro, con botón dorado en forma de corazón.",
+    precio: 749, antes: 999, imagen: "images/mujer-jeans-wide-oscuro.jpg" },
+  { id: 12, categoria: "mujer", nombre: "Suéter gris cuello V",
+    descripcion: "Suéter de punto gris con escote en V profundo y mangas abullonadas con puños acanalados.",
+    precio: 449, antes: 599, imagen: "images/mujer-sueter-gris.jpg" },
+  { id: 13, categoria: "mujer", nombre: "Bermudas araña desgastadas",
+    descripcion: "Bermudas de mezclilla gris con efecto desgastado y estampado de araña y telaraña. Cintura elástica.",
+    precio: 449, antes: 629, imagen: "images/mujer-shorts-arana.jpg" },
+  { id: 14, categoria: "mujer", nombre: "Bermudas denim estrellas",
+    descripcion: "Bermudas de mezclilla azul lavado con estrellas blancas estampadas. Tiro alto y corte amplio.",
+    precio: 429, antes: 599, imagen: "images/mujer-shorts-estrellas.jpg" },
+  { id: 15, categoria: "mujer", nombre: "Hoodie Snoopy azul",
+    descripcion: "Sudadera azul cielo oversize con cierre, capucha y estampado de Snoopy y Woodstock.",
+    precio: 549, antes: 749, imagen: "images/mujer-hoodie-azul.jpg" },
+  { id: 16, categoria: "mujer", nombre: "Top halter blanco",
+    descripcion: "Top blanco con cuello halter drapeado y espalda abierta con detalle de cadena dorada.",
+    precio: 259, antes: 349, imagen: "images/mujer-top-halter.jpg" },
+  { id: 17, categoria: "mujer", nombre: "Camiseta strawberry",
+    descripcion: "Camiseta oversize color crema con estampado de fresas y texto “Strawberry Active Lifestyle”.",
+    precio: 289, antes: 389, imagen: "images/mujer-camiseta-fresas.jpg" },
+  { id: 18, categoria: "mujer", nombre: "Top negro cuello alto",
+    descripcion: "Top negro ajustado con cuello alto drapeado, mangas cortas y fruncido lateral en la cintura.",
+    precio: 249, antes: 339, imagen: "images/mujer-top-negro.jpg" }
+];

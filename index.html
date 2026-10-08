@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SW Store | Ropa urbana</title>
+  <meta name="description" content="Tienda de ropa urbana para hombre y mujer. Super sale hasta 50% de descuento.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="barra">
+    <a class="marca" href="#inicio">SW</a>
+    <nav>
+      <a href="#hombre">Hombre</a>
+      <a href="#mujer">Mujer</a>
+      <a href="#curso">Crea tu estilo</a>
+    </nav>
+    <button class="btn-carrito" id="abrirCarrito" aria-label="Abrir carrito">
+      Carrito <span id="contador">0</span>
+    </button>
+  </header>
+
+  <!-- BANNER PRINCIPAL (hero) -->
+  <section class="hero" id="inicio">
+    <img src="images/banner.jpg" alt="Super Sale: hasta 50% de descuento">
+  </section>
+
+  <main>
+    <section class="seccion" id="hombre">
+      <h2>Hombre</h2>
+      <div class="rejilla" id="rejilla-hombre"></div>
+    </section>
+
+    <section class="seccion" id="mujer">
+      <h2>Mujer</h2>
+      <div class="rejilla" id="rejilla-mujer"></div>
+    </section>
+
+    <!-- SECCIÓN CURSO -->
+    <section class="curso" id="curso">
+      <h2>Ahora puedes crear tu propio estilo</h2>
+      <p>La ropa es identidad, estilo y expresión, siempre puedes ir en busca de más, aprende a crear tu propia ropa con el siguiente curso</p>
+      <a class="btn" href="https://www.domestika.org/es/courses/5603-especializacion-en-costura-y-diseno" target="_blank" rel="noopener">Ver curso en Domestika</a>
+    </section>
+  </main>
+
+  <footer class="pie">© 2026 SW Store. Todos los derechos reservados.</footer>
+
+  <!-- CARRITO -->
+  <div class="velo" id="velo"></div>
+  <aside class="carrito" id="carrito" aria-label="Carrito de compras">
+    <div class="carrito-cab">
+      <h3>Tu carrito</h3>
+      <button id="cerrarCarrito" aria-label="Cerrar carrito">✕</button>
+    </div>
+    <ul id="lista-carrito"></ul>
+    <div class="carrito-pie">
+      <p>Total: <strong id="total">$0</strong></p>
+      <button class="btn" id="finalizar">Finalizar compra</button>
+      <button class="btn-link" id="vaciar">Vaciar carrito</button>
+    </div>
+  </aside>
+
+  <script src="js/productos.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
