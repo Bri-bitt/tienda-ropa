@@ -1,9 +1,4 @@
-/* ============================================================
-   PRODUCTOS - Edita aquí nombres, descripciones y precios.
-   categoria: "hombre" o "mujer"
-   precio = precio con descuento | antes = precio anterior
-   (Precios en pesos mexicanos MXN)
-   ============================================================ */
+
 const PRODUCTOS = [
   /* ---------- HOMBRE ---------- */
   { id: 1, categoria: "hombre", nombre: "Hoodie tribal con cierre",
