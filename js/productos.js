@@ -49,7 +49,7 @@ const PRODUCTOS = [
     precio: 449, antes: 629, imagen: "images/mujer-shorts-arana.jpg" },
   { id: 14, categoria: "mujer", nombre: "Bermudas denim estrellas",
     descripcion: "Bermudas de mezclilla azul lavado con estrellas blancas estampadas. Tiro alto y corte amplio.",
-    precio: 429, antes: 599, imagen: "images/mujer-shorts-estrellas.jpg" },
+    precio: 299, antes: 599, imagen: "images/mujer-shorts-estrellas.jpg" },
   { id: 15, categoria: "mujer", nombre: "Hoodie Snoopy azul",
     descripcion: "Sudadera azul cielo oversize con cierre, capucha y estampado de Snoopy y Woodstock.",
     precio: 374, antes: 749, imagen: "images/mujer-hoodie-azul.jpg" },
